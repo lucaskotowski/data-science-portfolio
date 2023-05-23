@@ -21,6 +21,7 @@ ________________________________________________________________________________
 ### Power BI Projects
 - [Marketing Campaign Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/marketing-analysis)
 - [Wine Tasting Dataset](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/wine-tasting)
+- [Financial Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/financial-analysis)
 
 ### Data Science Projects
 <links go here>
