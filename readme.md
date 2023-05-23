@@ -19,7 +19,8 @@ ________________________________________________________________________________
 [![Power BI](https://img.shields.io/badge/power-bi-grey?style=for-the-badge&logo=powerbi)]([https://github.com/lucas.kotowski](https://github.com/lucaskotowski/data-science-portfolio))
 
 ### Power BI Projects
-<links go here>
+- [Marketing Campaign Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/marketing-analysis)
+- [Wine Tasting Dataset](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/wine-tasting)
 
 ### Data Science Projects
 <links go here>
