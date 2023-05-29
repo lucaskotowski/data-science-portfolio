@@ -2,7 +2,6 @@
 ### This is a compilation of all Data Science/Data Analytics projects and certificates I've done for academic and self-learning purposes.
 
 
-
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-kotowski) 
 
@@ -23,13 +22,12 @@
 <links go here>
 
 ### Challenges
-<links go here>
+- [Seel Data SQL Challenge 1](https://github.com/lucaskotowski/data-science-portfolio/tree/main/challenges/SQL)
 
 ### Certificates
 - [SQL by José Portilla (Udemy)](https://github.com/lucaskotowski/data-science-portfolio/blob/main/certificates/Certificado%20PostgreSQL.pdf)
 - [Power BI Analyst by DIO](https://github.com/lucaskotowski/data-science-portfolio/blob/main/certificates/DIO.pdf)
 - [Power BI for Business Intelligence by Chris Dutton/Maven Analytics](https://github.com/lucaskotowski/data-science-portfolio/blob/main/certificates/UC-ceec944b-8906-48a1-a559-8fe3f6416698.pdf)
 
-  
   
 [![](https://visitcount.itsvg.in/api?id=lucaskotowski&icon=0&color=0)](https://visitcount.itsvg.in)
