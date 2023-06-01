@@ -1,5 +1,7 @@
 # 💫 About
-### This is a compilation of all Data Science/Data Analytics projects and certificates I've done for academic and self-learning purposes.
+
+### Seja bem vindo ao meu GitHub! Esse repositório é o meu portfolio de Data Science/Análise de Dados e meus certificados na área, que fui adquirindo durante o tempo.
+### Welcome to my GitHub! This is a compilation of all Data Science/Data Analytics projects and certificates I've done for academic and self-learning purposes.
 
 
 ## 🌐 Socials
@@ -7,7 +9,6 @@
 
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
 
 
 ### Power BI Projects
