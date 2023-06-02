@@ -1,10 +1,14 @@
 # 💫 About
+<p align="center">
+    <img width="200" src="https://github.com/lucaskotowski/data-science-portfolio/blob/main/logopreto.png" alt="logo">
+</p>
 
 ### Seja bem vindo ao meu GitHub! Esse repositório é o meu portfolio de Data Science/Análise de Dados e meus certificados na área, que fui adquirindo durante o tempo.
 ### Welcome to my GitHub! This is a compilation of all Data Science/Data Analytics projects and certificates I've done for academic and self-learning purposes.
 
 
 ## 🌐 Socials
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lucas-kotowski) 
 
 # 💻 Tech Stack
