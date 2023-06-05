@@ -25,7 +25,7 @@
 ### Data Science Projects
 <links go here>
 
-### Python Automation Projects
+### Python Projects
 <links go here>
 
 ### Challenges
