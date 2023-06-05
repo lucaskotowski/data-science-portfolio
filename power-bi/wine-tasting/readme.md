@@ -48,3 +48,10 @@ Os testes foram realizados por 20 provadores profissionais especializados;
 - A variedade de vinho mais cara encontrada foi o Ramisco (média de $495,00), sendo mais que o dobro do preço do segundo colocado Terrantes (média de $236,00).
 - No Brasil, os vinhos mais bem avaliado foram Cave Geisse 2012 Blanc de Blancs Brut Chardonnay (preço de $45,00)e Cave Geisse 2013 Brut Nature Sparkling (preço de $36,00), avaliados com 89 pontos. Entretanto, o vinho mais caro foi o Casa Perini 2012 Quatro Red, avaliado com 86 pontos e custando $60,00.
 - O profissional que mais provou vinhos foi Roger Voss (@vossroger), com impressionantes 25.514 vinhos provados, dando uma média de nota de 88,71.
+
+## Imagens
+![Geral](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/wine-tasting/img/geral.png)
+![Produção](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/wine-tasting/img/producao1.png)
+![Produção](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/wine-tasting/img/producao2.png)
+![Provadores](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/wine-tasting/img/taster.png)
+![Conclusão](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/wine-tasting/img/conclusao.png)
