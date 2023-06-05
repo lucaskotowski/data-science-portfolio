@@ -40,4 +40,4 @@ O objetivo é trazer uma breve introdução aos KPIs de Marketing. Os relatório
 ![Cliente](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/marketing-analysis/img/cliente.png)
 ![Comportamento do Cliente](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/marketing-analysis/img/cliente.png)
 ![Campanha](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/marketing-analysis/img/campanha.png)
-![PDV](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/marketing-analysis/img/pdv.png)
+![PDV](https://github.com/lucaskotowski/data-science-portfolio/blob/main/power-bi/marketing-analysis/img/pvd.png)
