@@ -23,10 +23,10 @@
 - [Financial Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/financial-analysis)
 
 ### Data Science Projects
-<links go here>
+Em atualização!
 
 ### Python Projects
-<links go here>
+Em atualização!
 
 ### Challenges
 - [Seel Data SQL Challenge 1](https://github.com/lucaskotowski/data-science-portfolio/tree/main/challenges/SQL)
