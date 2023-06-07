@@ -29,7 +29,7 @@ Em atualização!
 Em atualização!
 
 ### Challenges
-- [Seel Data SQL Challenge 1](https://github.com/lucaskotowski/data-science-portfolio/tree/main/challenges/SQL)
+Em atualização!
 
 ### Certificates
 - [SQL by José Portilla (Udemy)](https://github.com/lucaskotowski/data-science-portfolio/blob/main/certificates/Certificado%20PostgreSQL.pdf)
