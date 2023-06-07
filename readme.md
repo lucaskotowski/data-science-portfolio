@@ -21,6 +21,7 @@
 - [RH Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/rh)
 - [Logistics Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/logistics)
 - [Financial Analysis](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/financial-analysis)
+- [Stock Market](https://github.com/lucaskotowski/data-science-portfolio/tree/main/power-bi/stock-market)
 
 ### Data Science Projects
 Em atualização!
