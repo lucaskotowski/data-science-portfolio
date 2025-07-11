@@ -7,7 +7,6 @@ O objetivo deste projeto é criar e estruturar uma solução completa de data wa
 ## Arquitetura
 
 A arquitetura de dados escolhida segue o padrão da 'Arquitetura Medalhão', separando os dados nas camadas **Bronze**, **Silver** e **Gold**:
-![Data Architecture](docs/data_architecture.png)
 
 1. **Bronze**: Armazenar dados brutos, trazendo os dados do mesmo formato nos quais são encontrados na fonte.
 2. **Silver**: Nesta camada são aplicadas as melhores práticas de limpeza e padronização de dados, a fim de preparar estes dados para posteriores análises.
