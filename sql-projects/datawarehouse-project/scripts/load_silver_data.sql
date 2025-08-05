@@ -1,7 +1,9 @@
 -- Limpeza de dados e inserção dos dados já padronizados nas tabelas silver
+-- Remoção de espaços em branco, normalização e padronização de abreviações e dados NULL, remoção de dados duplicados
+
+
 
 -- silver.crm_cust_info
--- Remoção de espaços em branco, normalização e padronização de abreviações e dados NULL, remoção de dados duplicados
 TRUNCATE TABLE silver.crm_cust_info;
 INSERT INTO silver.crm_cust_info (cst_id, cst_key, cst_firstname, cst_lastname, cst_marital_status, cst_gndr, cst_create_date)
 SELECT 
@@ -24,6 +26,7 @@ SELECT
 	ROW_NUMBER() OVER (PARTITION BY cst_id ORDER BY cst_create_date DESC) AS flag_last 
 FROM 
 	bronze.crm_cust_info WHERE cst_id IS NOT NULL) WHERE flag_last = 1;
+
 
 
 -- silver.crm_prd_info
@@ -89,8 +92,8 @@ SELECT
 	END AS sls_price
 FROM bronze.crm_sales_details;
 
--- silver.erp_cust_az12
 
+-- silver.erp_cust_az12
 TRUNCATE TABLE silver.erp_cust_az12;
 INSERT INTO silver.erp_cust_az12 (
 	cid,
@@ -109,7 +112,6 @@ FROM bronze.erp_cust_az12;
 
 
 -- silver.erp_loc_a101
-
 TRUNCATE TABLE silver.erp_loc_a101;
 INSERT INTO silver.erp_loc_a101 (
 	cid,
@@ -126,8 +128,8 @@ SELECT
 FROM bronze.erp_loc_a101;
 
 
--- silver.erp_px_cat_g1v2
 
+-- silver.erp_px_cat_g1v2
 TRUNCATE TABLE silver.erp_px_cat_g1v2;
 INSERT INTO silver.erp_px_cat_g1v2 (id, cat, subcat, maintenance)
 SELECT
