@@ -1,8 +1,11 @@
 -- Limpeza de dados e inserção dos dados já padronizados nas tabelas silver
 -- Remoção de espaços em branco, normalização e padronização de abreviações e dados NULL, remoção de dados duplicados
 
+CREATE OR REPLACE PROCEDURE silver.load_silver()
+LANGUAGE plpgsql
+AS $$ 
 
-
+BEGIN
 -- silver.crm_cust_info
 TRUNCATE TABLE silver.crm_cust_info;
 INSERT INTO silver.crm_cust_info (cst_id, cst_key, cst_firstname, cst_lastname, cst_marital_status, cst_gndr, cst_create_date)
