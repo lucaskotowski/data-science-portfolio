@@ -105,3 +105,19 @@ SELECT
 	ELSE TRIM(geb)
 	END AS geb
 FROM bronze.erp_cust_az12
+
+
+-- silver.erp_loc_a101
+INSERT INTO silver.erp_loc_a101 (
+	cid,
+	cntry
+)
+SELECT 
+	REPLACE(cid, '-', '') AS cid, 
+	CASE 
+		WHEN TRIM(cntry) = '' OR TRIM(cntry) IS NULL THEN 'N/A'
+		WHEN TRIM(cntry) = 'DE' then 'Germany'
+		WHEN TRIM(cntry) IN ('US', 'USA') THEN 'United States'
+		ELSE TRIM(cntry)
+	END AS cntry
+FROM bronze.erp_loc_a101
