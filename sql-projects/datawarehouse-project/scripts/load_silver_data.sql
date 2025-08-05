@@ -88,3 +88,20 @@ SELECT
 		ELSE sls_price
 	END AS sls_price
 FROM bronze.crm_sales_details;
+
+
+-- silver.erp_cust_az12
+INSERT INTO silver.erp_cust_az12 (
+	cid,
+	bdate, 
+	geb
+)
+SELECT 
+	cid, 
+	bdate,
+	CASE 
+		WHEN TRIM(geb) = 'M' THEN 'Male'
+		WHEN TRIM(geb) = 'F' THEN 'Female'
+	ELSE TRIM(geb)
+	END AS geb
+FROM bronze.erp_cust_az12
