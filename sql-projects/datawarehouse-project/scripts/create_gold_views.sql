@@ -1,7 +1,6 @@
 -- gold.dim_customer
 
 CREATE VIEW gold.dim_customer AS
-
 SELECT
 	ROW_NUMBER() OVER (ORDER BY cst_id) AS customer_key,
 	cst_id AS customer_id,
@@ -39,3 +38,21 @@ SELECT
 FROM silver.crm_prd_info pi
 LEFT JOIN silver.erp_px_cat_g1v2 pc ON pi.cat_id = pc.id
 WHERE prd_end_dt IS NULL
+
+
+-- gold.fact_sales
+
+CREATE VIEW gold.fact_sales AS
+SELECT
+	sls_ord_num AS order_number,
+	dp.product_key,
+	dc.customer_key,
+	sls_order_dt AS order_date,
+	sls_ship_dt AS shipping_date,
+	sls_due_dt AS due_date,
+	sls_price AS  price,
+	sls_quantity AS order_quantity,
+	sls_sales AS order_total
+FROM silver.crm_sales_details sd
+LEFT JOIN gold.dim_products dp ON sd.sls_prd_key = dp.product_id
+LEFT JOIN gold.dim_customer dc ON sd.sls_cust_id = dc.customer_id;
