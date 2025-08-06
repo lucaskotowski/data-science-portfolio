@@ -23,5 +23,4 @@ A arquitetura de dados escolhida segue o padrão da 'Arquitetura Medalhão', sep
 <img width="701" height="271" alt="data_arch drawio" src="https://github.com/user-attachments/assets/18d8349c-3855-4f4e-b51d-08bc756ddab5" />
 
 ## DATA FLOW
-<img width="1094" height="671" alt="data_flow" src="https://github.com/user-attachments/assets/c3873824-e274-43ed-9c23-879280df25d4" />
-
+<img width="1094" height="530" alt="data_flow" src="https://github.com/user-attachments/assets/a45a4236-2656-44cf-9292-a11244d7e88f" />
