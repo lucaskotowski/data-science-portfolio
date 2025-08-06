@@ -18,3 +18,10 @@ A arquitetura de dados escolhida segue o padrão da 'Arquitetura Medalhão', sep
 1. **Arquitetura de Dados**: desenhar um data warehouse moderno e funcional.
 2. **Processo de ETL**: Aplicar as melhores práticas de ETL.
 3. **Modelagem de dados*: modelar todos os dados a fim de deixá-los prontos para uso em reports e análises avançadas.
+
+## DATA ARCH
+<img width="701" height="271" alt="data_arch drawio" src="https://github.com/user-attachments/assets/18d8349c-3855-4f4e-b51d-08bc756ddab5" />
+
+## DATA FLOW
+<img width="1094" height="671" alt="data_flow" src="https://github.com/user-attachments/assets/c3873824-e274-43ed-9c23-879280df25d4" />
+
