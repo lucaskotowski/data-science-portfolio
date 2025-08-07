@@ -16,12 +16,14 @@ A arquitetura de dados escolhida segue o padrão da 'Arquitetura Medalhão', sep
 
 ## DATA FLOW
 <img width="1094" height="530" alt="data_flow" src="https://github.com/user-attachments/assets/a45a4236-2656-44cf-9292-a11244d7e88f" />
+
+
 ---
 ## Escopo do Projeto
 
 1. **Arquitetura de Dados**: desenhar um data warehouse moderno e funcional.
 2. **Processo de ETL**: Aplicar as melhores práticas de ETL.
-3. **Modelagem de dados*: modelar todos os dados a fim de deixá-los prontos para uso em reports e análises avançadas.
+3. **Modelagem de dados**: modelar todos os dados a fim de deixá-los prontos para uso em reports e análises avançadas.
 
 
 
